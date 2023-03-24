@@ -1,0 +1,139 @@
+CONTRATTO DI LICENZA DEL SOFTWARE INTEL (Distribuzione OEM / IHV / ISV e Utente singolo)
+
+IMPORTANTE - LEGGERE PRIMA DI COPIARE, INSTALLARE O USARE IL SOFTWARE. 
+Non usare o caricare il software ed alcun materiale ad esso associato (collettivamente, il "Software") prima di aver attentamente letto i seguenti termini e condizioni. Il caricamento o l'utilizzo del Software comporta l'adesione ai termini del presente Contratto di licenza. In caso non si desideri aderire ai termini di questo Contratto di licenza, non installare o utilizzare il Software.
+
+Notare inoltre:
+* Se si è un produttore di apparecchiature originali (OEM), un fornitore di hardware indipendente (IHV) o un rivenditore di software indipendente, applicare il presente CONTRATTO DI LICENZA per intero.
+* Se si è un utente finale, applicare solo il Documento A del presente CONTRATTO DI LICENZA.
+
+Per OEM, IHV e ISV:
+
+LICENZA. Questo Software è dato in licenza d'uso solo con prodotti Intel. L'uso del Software con prodotti differenti da quelli Intel non è concesso da questo Contratto di licenza. Soggetto ai termini del presente Contratto di licenza, Intel garantisce una licenza non esclusiva, non trasferibile, internazionale, pre-pagata e soggetta ai diritti Intel sulla proprietà intellettuale per:
+	a) utilizzare, modificare e copiare il Software internamente a fini di manutenzione e sviluppo; e
+	b) modificare, copiare e distribuire il Software, comprese le opere derivate, agli utenti finali ma sempre in accordo ai termini del Contratto di licenza finale Intel e del Contratto di licenza per l'utente singolo, allegato come Documento A; e
+	c) modificare, copiare e distribuire la documentazione allegata al Software, ma solamente insieme al Software.
+
+Qualora l'utente non fosse il produttore finale o il rivenditore di un sistema o programma comprendente il Software, sarà possibile trasferire una copia del Software, comprese le opere derivate (e la relativa documentazione dell'utente finale), al destinatario per l'utilizzo secondo i termini del presente Contratto di licenza, a patto che il destinatario si impegni a rispettarli pienamente. L'utente non deve diversamente assegnare, concedere in licenza, affittare o in qualsiasi altro modo trasferire o divulgare il Software a terzi. Non è concesso inoltre decompilare o modificare il Software.
+
+Salvo quanto espressamente dichiarato nel presente Contratto di licenza, non viene garantita alcuna licenza o diritto direttamente all'utente per sottinteso, persuasione, preclusione o altro. Intel si riserva la facoltà di esaminare, direttamente o tramite un incaricato, i record principali dell'utente al fine di verificare la conformità con i termini e le condizioni del presente Contratto di licenza.
+
+RISERVATEZZA. Qualora si desiderasse usufruire di un consulente di altra società o di un subappaltatore ("Contraente") e tale collaborazione implicasse l'accesso o l'uso del Software, l'acquirente dovrà avere un accordo di riservatezza scritto dal Contraente, contenente i termini e gli obblighi relativi all'accesso o all'utilizzo del Software e caratterizzato da termini restrittivi almeno quanto quelli contenuti nel presente Contratto di licenza, escludendo eventuali diritti di distribuzione e di utilizzo per altro scopo.
+Diversamente, l'utente non potrà divulgare i termini o l'esistenza del presente accordo o utilizzare il nome Intel in alcuna pubblicazione, pubblicità o altro annuncio previo consenso scritto di Intel. Non viene concesso alcun diritto di uso del marchio registrato o di alcun logo Intel.
+
+PROPRIETÀ DEL SOFTWARE E COPYRIGHT. La titolarità di tutte le copie del Software appartiene a Intel o ai suoi fornitori. Il Software è protetto dalle leggi sul copyright degli Stati Uniti e di altri Paesi, e dalle disposizioni dei trattati internazionali. L'acquirente non deve rimuovere le avvertenze riguardanti il copyright dal Software. Intel può modificare il Software, o parti di esso ivi citate, in ogni momento e senza alcun preavviso, ma non è obbligata a fornire alcun supporto tecnico o ad aggiornare il Software. Eccetto nel caso in cui abbia stabilito diversamente, ed in modo espresso, Intel non trasferisce diritti espressi o impliciti riguardanti brevetti, diritti d'autore, marchi depositati o altri diritti di proprietà intellettuale dell'azienda. L'acquirente può trasferire il Software soltanto nel caso in cui non ne trattenga una copia per sé e il destinatario del Software accetti di aderire ai termini di questo contratto di licenza.
+
+GARANZIA LIMITATA DEL SUPPORTO. Se il Software è stato distribuito da Intel su supporto fisico, Intel garantisce che tale supporto sia esente da difetti intrinseci e dei materiali per un periodo di novanta (90) giorni a partire dalla consegna effettuata da Intel. Se dovesse risultare difettoso, il supporto può essere rinviato ad Intel che, a propria discrezione, provvederà alla sostituzione o ad altro mezzo di consegna del Software.
+
+ESCLUSIONE DI ALTRE GARANZIE. AD ECCEZIONE DEI PUNTI INDICATI QUI SOPRA, IL SOFTWARE VIENE FORNITO "COSÌ COM'È", SENZA ALCUNA GARANZIA ESPRESSA O IMPLICITA DI ALCUN TIPO, INCLUSE LE GARANZIE DI COMMERCIABILITÀ, DI CONFORMITÀ ALLE NORME CONTRO LA VIOLAZIONE DEI DIRITTI O IDONEITÀ AD UN FINE PARTICOLARE. Intel non garantisce né si assume la responsabilità circa l'accuratezza o la completezza di qualsiasi informazione, testo, grafica, collegamento o altro elemento contenuto nel Software.
+
+LIMITAZIONE DI RESPONSIBILITÀ. IN NESSUN CASO INTEL O I SUOI FORNITORI SARANNO RESPONSABILI PER QUALSIASI DANNO (INCLUSI, MA NON LIMITAMENTE A, LA PERDITA DI PROFITTI, L'INTERRUZIONE DELL'ATTIVITÀ O LA PERDITA DI INFORMAZIONI) DERIVANTI DALL'USO O DALL'IMPOSSIBILITÀ DI USARE IL SOFTWARE, ANCHE NEL CASO INTEL SIA STATA INFORMATA DELLA POSSIBILITÀ DEL VERIFICARSI DI TALI EVENTI DANNOSI. ALCUNE GIURISDIZIONI NON CONSENTONO LA LIMITAZIONE O L'ESCLUSIONE DELLA RESPONSIBILITÀ PER DANNI INCIDENTALI O CONSEQUENZIALI, PERTANTO QUANTO AFFERMATO SOPRA IN MATERIA DI ESCLUSIONI POTREBBE NON ESSERE APPLICABILE IN ALCUNI CASI. L'ACQUIRENTE POTREBBE INOLTRE GODERE DI ALTRI DIRITTI LEGALI CHE VARIANO DA GIURISDIZIONE A GIURISDIZIONE. 
+
+RESCISSIONE DEL PRESENTE CONTRATTO DI LICENZA. Intel si riserva la facoltà di rescindere il presente Contratto di licenza in qualsiasi momento nel caso che l'acquirente violi i termini del Contratto di licenza stesso. In tal caso, l'acquirente è tenuto a distruggere il Software o a restituire tutte le copie del Software ad Intel.
+ 
+LEGGI APPLICABILI. Eventuali rivendicazioni relative a questo Contratto di licenza sono regolate dalle leggi dello Stato della California, ad eccezione dei conflitti che possano sussistere con le leggi e la Convenzione delle Nazioni Unite sui Contratti riguardanti la vendita di beni di consumo. L'acquirente non può esportare il Software in violazione alle leggi ed ai regolamenti di esportazione applicabili. Intel non è tenuta al rispetto di alcun altro contratto di licenza, a meno che tale contratto di licenza sia in forma scritta e firmato da un rappresentante Intel autorizzato.
+
+DIRITTI LIMITATI DEL GOVERNO DEGLI STATI UNITI. Il Software viene fornito con "DIRITTI LIMITATI". L'uso, la duplicazione o la divulgazione da parte del Governo degli Stati Uniti sono soggetti alle restrizioni contenute in FAR52.227-14, DFAR252.227-7013 o successivi. L'uso del Software da parte del Governo degli Stati Uniti costituisce riconoscimento dei diritti di proprietà di Intel ivi contenuti. Imprenditore o Produttore è Intel Corporation, 2200 Mission College Blvd., Santa Clara, CA 95052, U.S.A.
+
+
+DOCUMENTO "A"
+CONTRATTO DI LICENZA DEL SOFTWARE INTEL (Finale, Utente singolo)
+
+IMPORTANTE - LEGGERE PRIMA DI COPIARE, INSTALLARE O USARE IL SOFTWARE. 
+Non usare o caricare il software ed alcun materiale ad esso associato (collettivamente, il "Software") prima di aver attentamente letto i seguenti termini e condizioni. Il caricamento o l'utilizzo del Software comporta l'adesione ai termini del presente Contratto di licenza. In caso non si desideri aderire ai termini di questo Contratto di licenza, non installare o utilizzare il Software.
+
+LICENZA. L'acquirente è autorizzato a copiare il Software su un computer singolo per uso personale, a scopi non commerciali e ad effettuare una sola copia di archiviazione del Software, nel rispetto delle seguenti condizioni: 
+1. Questo Software è dato in licenza d'uso solo con prodotti Intel. L'uso del Software con prodotti differenti da quelli Intel non è concesso da questo Contratto di licenza. 
+2. L'acquirente non può copiare, modificare, affittare, vendere, distribuire o trasferire alcuna parte del Software, ad eccezione di quanto stabilito nel presente Contratto di licenza, e si impegna a prevenire copie non autorizzate del Software.
+3. L'acquirente non può procedere a progettazione inversa, decompilazione o disassemblaggio del Software. 
+4. L'acquirente non può cedere in licenza o autorizzare un uso simultaneo del Software da parte di più di un utente.
+5. Il Software può contenere elementi e funzioni appartenenti a terze parti, alcuni dei quali sono identificati e concessi in licenza in accordo con quanto contenuto nel file "license.txt" o in altro testo o file. 
+
+PROPRIETÀ DEL SOFTWARE E COPYRIGHT. La titolarità di tutte le copie del Software appartiene a Intel o ai suoi fornitori. Il Software è protetto dalle leggi sul copyright degli Stati Uniti e di altri Paesi, e dalle disposizioni dei trattati internazionali. L'acquirente non deve rimuovere le avvertenze riguardanti il copyright dal Software. Intel può modificare il Software, o parti di esso ivi citate, in ogni momento e senza alcun preavviso, ma non è obbligata a fornire alcun supporto tecnico o ad aggiornare il Software. Eccetto nel caso in cui abbia stabilito diversamente, ed in modo espresso, Intel non trasferisce diritti espressi o impliciti riguardanti brevetti, diritti d'autore, marchi depositati o altri diritti di proprietà intellettuale dell'azienda. L'acquirente può trasferire il Software soltanto nel caso in cui non ne trattenga una copia per sé e il destinatario del Software accetti di aderire ai termini di questo contratto di licenza.
+
+GARANZIA LIMITATA DEL SUPPORTO. Se il Software è stato distribuito da Intel su supporto fisico, Intel garantisce che tale supporto sia esente da difetti intrinseci e dei materiali per un periodo di novanta (90) giorni a partire dalla consegna effettuata da Intel. Se dovesse risultare difettoso, il supporto può essere rinviato ad Intel che, a propria discrezione, provvederà alla sostituzione o ad altro mezzo di consegna del Software.
+
+ESCLUSIONE DI ALTRE GARANZIE. AD ECCEZIONE DEI PUNTI INDICATI QUI SOPRA, IL SOFTWARE VIENE FORNITO "COSÌ COM'È", SENZA ALCUNA GARANZIA ESPRESSA O IMPLICITA DI ALCUN TIPO, INCLUSE LE GARANZIE DI COMMERCIABILITÀ, DI CONFORMITÀ ALLE NORME CONTRO LA VIOLAZIONE DEI DIRITTI O IDONEITÀ AD UN FINE PARTICOLARE. Intel non garantisce né si assume la responsabilità circa l'accuratezza o la completezza di qualsiasi informazione, testo, grafica, collegamento o altro elemento contenuto nel Software.
+
+LIMITAZIONE DI RESPONSIBILITÀ. IN NESSUN CASO INTEL O I SUOI FORNITORI SARANNO RESPONSABILI PER QUALSIASI DANNO (INCLUSI, MA NON LIMITAMENTE A, LA PERDITA DI PROFITTI, L'INTERRUZIONE DELL'ATTIVITÀ O LA PERDITA DI INFORMAZIONI) DERIVANTI DALL'USO O DALL'IMPOSSIBILITÀ DI USARE IL SOFTWARE, ANCHE NEL CASO INTEL SIA STATA INFORMATA DELLA POSSIBILITÀ DEL VERIFICARSI DI TALI EVENTI DANNOSI. ALCUNE GIURISDIZIONI NON CONSENTONO LA LIMITAZIONE O L'ESCLUSIONE DELLA RESPONSIBILITÀ PER DANNI INCIDENTALI O CONSEQUENZIALI, PERTANTO QUANTO AFFERMATO SOPRA IN MATERIA DI ESCLUSIONI POTREBBE NON ESSERE APPLICABILE IN ALCUNI CASI. L'ACQUIRENTE POTREBBE INOLTRE GODERE DI ALTRI DIRITTI LEGALI CHE VARIANO DA GIURISDIZIONE A GIURISDIZIONE. 
+
+RESCISSIONE DEL PRESENTE CONTRATTO DI LICENZA. Intel si riserva la facoltà di rescindere il presente Contratto di licenza in qualsiasi momento nel caso che l'acquirente violi i termini del Contratto di licenza stesso. In tal caso, l'acquirente è tenuto a distruggere il Software o a restituire tutte le copie del Software ad Intel.
+ 
+LEGGI APPLICABILI. Eventuali rivendicazioni relative a questo Contratto di licenza sono regolate dalle leggi dello Stato della California, ad eccezione dei conflitti che possano sussistere con le leggi e la Convenzione delle Nazioni Unite sui Contratti riguardanti la vendita di beni di consumo. L'acquirente non può esportare il Software in violazione alle leggi ed ai regolamenti di esportazione applicabili. Intel non è tenuta al rispetto di alcun altro contratto di licenza, a meno che tale contratto di licenza sia in forma scritta e firmato da un rappresentante Intel autorizzato.
+
+DIRITTI LIMITATI DEL GOVERNO DEGLI STATI UNITI. Il Software viene fornito con "DIRITTI LIMITATI". L'uso, la duplicazione o la divulgazione da parte del Governo degli Stati Uniti sono soggetti alle restrizioni contenute in FAR52.227-14, DFAR252.227-7013 o successivi. L'uso del Software da parte del Governo degli Stati Uniti costituisce riconoscimento dei diritti di proprietà di Intel ivi contenuti. Imprenditore o Produttore è Intel Corporation, 2200 Mission College Blvd., Santa Clara, CA 95052, U.S.A.
+SLAOEMISV1/RBK/01-21-00
+
+LINGUA; TRADUZIONI.  Qualora la versione in lingua inglese del presente Contratto venisse fornita insieme a una versione tradotta in un'altra lingua, a titolo di riferimento, farà fede unicamente la versione in lingua inglese.
+
+
+
+INTEL SOFTWARE LICENSE AGREEMENT (OEM / IHV / ISV Distribution & Single User)
+
+IMPORTANT - READ BEFORE COPYING, INSTALLING OR USING. 
+Do not use or load this software and any associated materials (collectively, the "Software") until you have carefully read the following terms and conditions. By loading or using the Software, you agree to the terms of this Agreement. If you do not wish to so agree, do not install or use the Software.
+
+Please Also Note:
+* If you are an Original Equipment Manufacturer (OEM), Independent Hardware Vendor (IHV), or Independent Software Vendor (ISV), this complete LICENSE AGREEMENT applies;
+* If you are an End-User, then only Exhibit A, the INTEL SOFTWARE LICENSE AGREEMENT, applies.
+
+For OEMs, IHVs, and ISVs:
+
+LICENSE. This Software is licensed for use only in conjunction with Intel component products.  Use of the Software in conjunction with non-Intel component products is not licensed hereunder. Subject to the terms of this Agreement, Intel grants to you a nonexclusive, nontransferable, worldwide, fully paid-up license under Intel's copyrights to:
+	a) use, modify and copy Software internally for your own development and maintenance purposes; and
+	b) modify, copy and distribute Software, including derivative works of the Software, to your end-users, but only under a license agreement with terms at least as restrictive as those contained in Intel's Final, Single User License Agreement, attached as Exhibit A; and
+	c) modify, copy and distribute the end-user documentation which may accompany the Software, but only in association with the Software.
+
+If you are not the final manufacturer or vendor of a computer system or software program incorporating the Software, then you may transfer a copy of the Software, including derivative works of the Software (and related end-user documentation) to your recipient for use in accordance with the terms of this Agreement, provided such recipient agrees to be fully bound by the terms hereof.  You shall not otherwise assign, sublicense, lease, or in any other way transfer or disclose Software to any third party. You shall not reverse- compile, disassemble or otherwise reverse-engineer the Software.
+
+Except as expressly stated in this Agreement, no license or right is granted to you directly or by implication, inducement, estoppel or otherwise.  Intel shall have the right to inspect or have an independent auditor inspect your relevant records to verify your compliance with the terms and conditions of this Agreement.
+
+CONFIDENTIALITY. If you wish to have a third party consultant or subcontractor ("Contractor") perform work on your behalf which involves access to or use of Software, you shall obtain a written confidentiality agreement from the Contractor which contains terms and obligations with respect to access to or use of Software no less restrictive than those set forth in this Agreement and excluding any distribution rights, and use for any other purpose.
+Otherwise, you shall not disclose the terms or existence of this Agreement or use Intel's name in any publications, advertisements, or other announcements without Intel's prior written consent.  You do not have any rights to use any Intel trademarks or logos.
+
+OWNERSHIP OF SOFTWARE AND COPYRIGHTS. Title to all copies of the Software remains with Intel or its suppliers. The Software is copyrighted and protected by the laws of the United States and other countries, and international treaty provisions. You may not remove any copyright notices from the Software. Intel may make changes to the Software, or to items referenced therein, at any time and without notice, but is not obligated to support or update the Software. Except as otherwise expressly provided, Intel grants no express or implied right under Intel patents, copyrights, trademarks, or other intellectual property rights. You may transfer the Software only if the recipient agrees to be fully bound by these terms and if you retain no copies of the Software.
+
+LIMITED MEDIA WARRANTY. If the Software has been delivered by Intel on physical media, Intel warrants the media to be free from material physical defects for a period of ninety (90) days after delivery by Intel. If such a defect is found, return the media to Intel for replacement or alternate delivery of the Software as Intel may select.
+
+EXCLUSION OF OTHER WARRANTIES. EXCEPT AS PROVIDED ABOVE, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND, INCLUDING WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE.  Intel does not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within the Software.
+
+LIMITATION OF LIABILITY. IN NO EVENT SHALL INTEL OR ITS SUPPLIERS BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, LOST PROFITS, BUSINESS INTERRUPTION OR LOST INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF INTEL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS PROHIBIT EXCLUSION OR LIMITATION OF LIABILITY FOR IMPLIED WARRANTIES OR CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU. YOU MAY ALSO HAVE OTHER LEGAL RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION. 
+
+TERMINATION OF THIS AGREEMENT. Intel may terminate this Agreement at any time if you violate its terms. Upon termination, you will immediately destroy the Software or return all copies of the Software to Intel.
+ 
+APPLICABLE LAWS. Claims arising under this Agreement shall be governed by the laws of California, excluding its principles of conflict of laws and the United Nations Convention on Contracts for the Sale of Goods. You may not export the Software in violation of applicable export laws and regulations. Intel is not obligated under any other agreements unless they are in writing and signed by an authorized representative of Intel.
+
+GOVERNMENT RESTRICTED RIGHTS. The Software is provided with "RESTRICTED RIGHTS." Use, duplication, or disclosure by the Government is subject to restrictions as set forth in FAR52.227-14 and DFAR252.227-7013 et seq. or their successors. Use of the Software by the Government constitutes acknowledgment of Intel's proprietary rights therein. Contractor or Manufacturer is Intel Corporation, 2200 Mission College Blvd., Santa Clara, CA 95052.
+
+
+EXHIBIT "A" 
+INTEL SOFTWARE LICENSE AGREEMENT (Final, Single User)
+
+IMPORTANT - READ BEFORE COPYING, INSTALLING OR USING. 
+Do not use or load this software and any associated materials (collectively, the "Software") until you have carefully read the following terms and conditions. By loading or using the Software, you agree to the terms of this Agreement. If you do not wish to so agree, do not install or use the Software.
+
+LICENSE. You may copy the Software onto a single computer for your personal, noncommercial use, and you may make one back-up copy of the Software, subject to these conditions: 
+1. This Software is licensed for use only in conjunction with Intel component products.  Use of the Software in conjunction with non-Intel component products is not licensed hereunder. 
+2. You may not copy, modify, rent, sell, distribute or transfer any part of the Software except as provided in this Agreement, and you agree to prevent unauthorized copying of the Software.
+3. You may not reverse engineer, decompile, or disassemble the Software. 
+4. You may not sublicense or permit simultaneous use of the Software by more than one user.
+5. The Software may contain the software or other property of third party suppliers, some of which may be identified in, and licensed in accordance with, any enclosed "license.txt" file or other text or file. 
+
+OWNERSHIP OF SOFTWARE AND COPYRIGHTS. Title to all copies of the Software remains with Intel or its suppliers. The Software is copyrighted and protected by the laws of the United States and other countries, and international treaty provisions. You may not remove any copyright notices from the Software. Intel may make changes to the Software, or to items referenced therein, at any time without notice, but is not obligated to support or update the Software. Except as otherwise expressly provided, Intel grants no express or implied right under Intel patents, copyrights, trademarks, or other intellectual property rights. You may transfer the Software only if the recipient agrees to be fully bound by these terms and if you retain no copies of the Software.
+
+LIMITED MEDIA WARRANTY. If the Software has been delivered by Intel on physical media, Intel warrants the media to be free from material physical defects for a period of ninety (90) days after delivery by Intel. If such a defect is found, return the media to Intel for replacement or alternate delivery of the Software as Intel may select.
+
+EXCLUSION OF OTHER WARRANTIES EXCEPT AS PROVIDED ABOVE, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND INCLUDING WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE.  Intel does not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within the Software.
+
+LIMITATION OF LIABILITY.  IN NO EVENT SHALL INTEL OR ITS SUPPLIERS BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, LOST PROFITS, BUSINESS INTERRUPTION, OR LOST INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF INTEL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS PROHIBIT EXCLUSION OR LIMITATION OF LIABILITY FOR IMPLIED WARRANTIES OR CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU. YOU MAY ALSO HAVE OTHER LEGAL RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION. 
+
+TERMINATION OF THIS AGREEMENT. Intel may terminate this Agreement at any time if you violate its terms. Upon termination, you will immediately destroy the Software or return all copies of the Software to Intel.
+ 
+APPLICABLE LAWS. Claims arising under this Agreement shall be governed by the laws of California, excluding its principles of conflict of laws and the United Nations Convention on Contracts for the Sale of Goods. You may not export the Software in violation of applicable export laws and regulations. Intel is not obligated under any other agreements unless they are in writing and signed by an authorized representative of Intel.
+
+GOVERNMENT RESTRICTED RIGHTS. The Software is provided with "RESTRICTED RIGHTS." Use, duplication, or disclosure by the Government is subject to restrictions as set forth in FAR52.227-14 and DFAR252.227-7013 et seq. or their successors. Use of the Software by the Government constitutes acknowledgment of Intel's proprietary rights therein. Contractor or Manufacturer is Intel Corporation, 2200 Mission College Blvd., Santa Clara, CA 95052.
+ 
+SLAOEMISV1/RBK/01-21-00
+
+
+

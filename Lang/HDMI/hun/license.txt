@@ -1,0 +1,139 @@
+INTEL SZOFTVERLICENC-SZERZÕDÉS (OEM / IHV / ISV és egyedi felhasználók számára)
+
+FONTOS FIGYELMEZTETÉS: A SZOFTVER MÁSOLÁSA, TELEPÍTÉSE ÉS HASZNÁLATA ELÕTT OLVASSA EL AZ ALÁBBIAKAT. 
+
+Ne használja és ne töltse be a számítógépbe a szoftvert és az ahhoz kapcsolódó anyagokat (összefoglaló néven: a "Szoftvert"), amíg figyelmesen el nem olvasta az alábbi feltételeket. A Szoftver betöltésével és használatával Ön elfogadja a jelen Szerzõdés feltételeit. Ha nem kívánja elfogadni e feltételeket, ne telepítse és ne használja a Szoftvert.
+
+Emellett tartsa szem elõtt a következõket:
+* Ha Ön eredetiberendezés-gyártó (OEM), független hardvergyártó (IHV) vagy független szoftverszállító (ISV), a LICENCSZERZÕDÉS teljes egésze vonatkozik Önre. 
+* Ha Ön végfelhasználó, akkor Önre csak az "A" melléklet, az INTEL SZOFTVERLICENC-SZERZÕDÉS vonatkozik.
+
+Az OEM-ek, IHV-k és ISV-k részére:
+
+HASZNÁLATI ENGEDÉLY. A Szoftver használata csak az Intel által szállított komponensekkel engedélyezett. A Szoftvernek nem az Intel által gyártott komponensekkel együtt történõ használata jelen Szerzõdés keretében nem engedélyezett. A jelen Szerzõdésben foglalt feltételekkel az Intel nem kizárólagos, át nem ruházható, az egész világra kiterjedõ, teljes egészében tehermentes, az Intel szerzõi jogi védelme alá esõ használati engedélyt biztosít a következõkre:
+     a.) a Szoftver belsõ használata, módosítása és másolása saját fejlesztési és karbantartási célokra; valamint
+     b.) a Szoftver módosítása, másolása és forgalmazása - a Szoftverbõl származtatott termékeket is ideértve - az Ön végfelhasználói számára, de csakis olyan licencszerzõdés hatálya alatt, amelynek feltételei legalább annyira korlátozó jellegûek, mint amilyeneket az Intel egyedi végfelhasználóknak szánt licencszerzõdése tartalmaz, mely jelen anyag "A" mellékletét képezi; valamint
+     c.) a Szoftverhez esetlegesen mellékelt végfelhasználói dokumentáció módosítása, másolása és forgalmazása, de csakis a Szoftverrel együtt.
+
+Ha Ön a Szoftvert tartalmazó számítógépes rendszernek vagy szoftverprogramnak nem a végsõ gyártója vagy elõállítója, akkor a Szoftver egy példányát annak származtatott termékeivel (és kapcsolódó végfelhasználói dokumentációjával) együtt átadhatja az átvevõ félnek a jelen Szerzõdés feltételeinek megfelelõ felhasználás céljára, amennyiben az átvevõ fél maradéktalanul kötelezi magát a Szerzõdés feltételeinek betartására.  A Szoftvert harmadik félnek semmilyen más módon nem engedheti át, nem licencelheti tovább, nem adhatja bérbe, illetve semmilyen más módon nem ruházhatja át és nem teheti elérhetõvé. Ön a Szoftvert nem dekompilálhatja, nem dizasszemblálhatja, és semmilyen más módon nem fejtheti vissza.
+
+A jelen Szerzõdésben biztosított engedélyeken és jogokon kívül Önt semmilyen más engedély vagy jog nem illeti meg sem közvetlenül, sem közvetve, sem jogi célból, sem kereseti igény megtiltása által, sem másként. Az Intel jogosult saját maga vagy független fél által megvizsgálni az Ön vonatkozó nyilvántartásait annak ellenõrzése céljából, hogy Ön betartja-e jelen Szerzõdés feltételeit.
+
+TITOKTARTÁSI KÖTELEZETTSÉG. Amennyiben külsõ szaktanácsadót vagy alvállalkozót ("Alvállalkozó") kíván felkérni az Ön számára történõ olyan munkavégzésre, amelyhez a Szoftverhez való hozzáférés vagy annak használata szükséges, akkor Önnek írásos titoktartási nyilatkozatot kell beszereznie az Alvállalkozótól, amely a Szoftverhez való hozzáférés vagy annak használata tekintetében legalább a jelen Szerzõdésben foglaltaknak megfelelõ szigorúságú feltételeket és kötelezettségeket ír elõ, és amely kizár minden forgalmazási és egyéb célú felhasználási jogot.
+Emellett Ön az Intel elõzetes írásos engedélye nélkül nem közölheti a jelen Szerzõdés feltételeit vagy létezését, továbbá nem használhatja az Intel nevét semmilyen kiadványban, reklámanyagban vagy egyéb közleményben. Ön nem jogosult az Intel semmilyen védjegyének vagy emblémájának a használatára.
+
+A SZOFTVER TULAJDONJOGA ÉS A SZERZÕI JOGOK. A Szoftver összes példányának tulajdonjoga az Intel vagy szállítói kezében marad. A Szoftver az Egyesült Államok és más országok törvényei, valamint a nemzetközi egyezmények rendelkezései értelmében szerzõi jogvédelem alá esik. A Szoftverbõl nem távolíthatja el a szerzõi jogra vonatkozó közleményeket. Az Intel elõzetes értesítés nélkül bármikor jogosult a Szoftver vagy a Szoftver által hivatkozott elemek módosítására, de nem kötelezhetõ a Szoftver támogatására vagy frissítésére.  Ellenkezõ értelmû rendelkezés hiányában az Intel sem kifejezett, sem beleértett jogokat nem biztosít az Intel szabadalmaira, szerzõi jogaira, védjegyeire vagy más szellemi tulajdonára vonatkozóan. Ön csak akkor ruházhatja át a Szoftvert, ha a kedvezményezett maradéktalanul beleegyezik jelen feltételek teljesítésébe, és ha Ön a Szoftver egyetlen példányát sem õrzi meg. 
+
+KORLÁTOZOTT SZAVATOSSÁG AZ ADATHORDOZÓRA.  Amennyiben az Intel a Szoftvert fizikai adathordozón bocsátja rendelkezésre, akkor szavatolja, hogy az adathordozó a leszállítást követõ kilencven (90) napon át mentes lesz az anyaghibáktól és egyéb fizikai jellegû hibáktól. Ha ilyen hibát észlel, juttassa vissza az adathordozót az Intelhez. Az Intel belátása szerint kicseréli az adathordozót, vagy más módon bocsájtja rendelkezésre a Szoftvert.
+
+AZ EGYÉB SZAVATOSSÁGOK KIZÁRÁSA. A FENT EMLÍTETT ESETEKET KIVÉVE AZ INTEL A SZOFTVERT "ADOTT ÁLLAPOTÁBAN" BOCSÁJTJA RENDELKEZÉSRE, MINDENFAJTA KIFEJEZETT VAGY BELEÉRTETT SZAVATOSSÁG NÉLKÜL, BELEÉRTVE TÖBBEK KÖZÖTT AZ ELADHATÓSÁGRA, A JOGSÉRTÉSMENTESSÉGRE, ILLETVE AZ ADOTT CÉLRA VALÓ ALKALMASSÁGRA VONATKOZÓ SZAVATOSSÁGOT IS.  Az Intel nem nyújt szavatosságot és nem vállal felelõsséget a Szoftverben található semmilyen információ, szöveg, ábra, hivatkozás és egyéb elem helyessége vagy teljessége tekintetében.
+
+FELELÕSSÉGKORLÁTOZÁS. AZ INTEL ÉS SZÁLLÍTÓI NEM VÁLLALNAK SEMMINEMÛ FELELÕSSÉGET AZ OLYAN KÁROKÉRT (IDE ÉRTVE TÖBBEK KÖZÖTT AZ ELMARADT HASZONBÓL, AZ ÜZLETI TEVÉKENYSÉG FENNAKADÁSÁBÓL VAGY AZ ADATVESZTÉSBÕL EREDÕ KÁROKAT), AMELYEK A SZOFTVER HASZNÁLATÁBÓL, ILLETVE HASZNÁLATÁNAK AKADÁLYOZTATÁSÁBÓL SZÁRMAZNAK, AKKOR SEM, HA AZ INTELT TÁJÉKOZTATTÁK AZ ILYEN KÁROK LEHETÕSÉGÉRÕL. MIVEL EGYES ORSZÁGOK TÖRVÉNYKEZÉSE NEM ENGEDI MEG A BELEÉRTETT GARANCIÁK, ILLETVE A KÖVETKEZMÉNYES VAGY ESETI KÁROKÉRT VALÓ FELELÕSSÉG KIZÁRÁSÁT VAGY KORLÁTOZÁSÁT, EZÉRT LEHET, HOGY A FENTI KORLÁTOZÁSOK ÖNRE NEM ÉRVÉNYESEK. ÖNT AZ EGYES ORSZÁGOK TÖRVÉNYKEZÉSÉTÕL FÜGGÕEN EGYÉB JOGOK IS MEGILLETHETIK. 
+
+A SZERZÕDÉS MEGSZÜNTETÉSE. Az Intel bármikor felmondhatja a jelen Szerzõdést, ha Ön a benne foglaltakat megszegi. A Szerzõdés megszûntekor Ön köteles a Szoftvert megsemmisíteni, vagy annak összes példányát az Intelhez visszajuttatni. 
+
+IRÁNYADÓ JOG. A jelen Szerzõdésbõl származó vitás kérdéseket illetõen Kalifornia állam törvényei az irányadók, kivéve azoknak a jogütközésre és az áruforgalmi szerzõdésekrõl szóló ENSZ-egyezményre vonatkozó elveit. Ön nem exportálhatja a Szoftvert a hatályos exporttörvényeket és -elõírásokat megsértõ módon. Az Intelt semmilyen más megállapodás nem kötelezi, kivéve, ha azt írásban rögzítik, és az Intel hivatalos képviselõje írja alá. 
+
+AZ EGYESÜLT ÁLLAMOK KORMÁNYÁNAK KORLÁTOZOTT JOGAI. A Szoftver "KORLÁTOZOTT JOGI FELTÉTELEK" hatálya alá esik. Az Egyesült Államok kormánya általi használatra, másolásra és közlésre a FAR52.227-14 és az azt követõ DFAR252.227-7013, illetve az ezeket felváltó rendelkezések érvényesek. A Szoftvernek az USA kormánya általi használata az Intel vonatkozó szellemi tulajdonjogainak elismerését jelenti. E vonatkozásban a Vállalkozó vagy Gyártó az Intel Corporation, 2200 Mission College Blvd., Santa Clara, CA 95052 (USA). 
+
+"A" MELLÉKLET
+INTEL SZOFTVERLICENC-SZERZÕDÉS (egyedi végfelhasználóknak)
+
+FONTOS FIGYELMEZTETÉS: A SZOFTVER MÁSOLÁSA, TELEPÍTÉSE ÉS HASZNÁLATA ELÕTT OLVASSA EL AZ ALÁBBIAKAT. 
+
+Ne használja és ne töltse be a számítógépbe a szoftvert és az ahhoz kapcsolódó anyagokat (összefoglaló néven: a "Szoftvert"), amíg figyelmesen el nem olvasta az alábbi feltételeket. A Szoftver betöltésével és használatával Ön elfogadja a jelen Szerzõdés feltételeit. Ha nem kívánja elfogadni e feltételeket, ne telepítse és ne használja a Szoftvert.
+
+HASZNÁLATI ENGEDÉLY. A Szoftvert egyetlen számítógépre másolhatja fel személyes, nem kereskedelmi célú használatra, és a Szoftverrõl az alábbi feltételek mellett egy biztonsági másolatot készíthet: 
+1. A Szoftver használata csak az Intel által szállított komponensekkel együtt engedélyezett. A Szoftvernek nem az Intel által gyártott komponenseivel együtt történõ használata jelen Szerzõdés keretében nem engedélyezett. 
+2. A jelen Szerzõdés rendelkezéseiben foglalt eseteket kivéve Ön a Szoftver semely részét sem másolhatja le, nem módosíthatja, nem adhatja bérbe, nem értékesítheti, nem terjesztheti és nem ruházhatja át, és Ön egyúttal abba is beleegyezik, hogy megakadályozza a Szoftver engedély nélküli lemásolását.
+3. Ön a Szoftvert nem fejtheti vissza, nem dekompilálhatja, és nem dizasszemblálhatja. 
+4. A Szoftvert nem licencelheti tovább, és nem engedheti meg egynél több felhasználó általi egyidejû használatát.
+5. A Szoftver más cégek szoftvereit vagy egyéb tulajdonát is tartalmazhatja; ezek megjelölését és a használati engedélyükre vonatkozó utalást egy csatolt "license.txt" fájl vagy más szöveg vagy fájl tartalmazhatja.
+
+A SZOFTVER TULAJDONJOGA ÉS A SZERZÕI JOGOK. A Szoftver összes példányának tulajdonjoga az Intel vagy szállítói kezében marad. A Szoftver az Egyesült Államok és más országok törvényei, valamint a nemzetközi egyezmények rendelkezései értelmében szerzõi jogvédelem alá esik. A Szoftverbõl nem távolíthatja el a szerzõi jogra vonatkozó közleményeket. Az Intel elõzetes értesítés nélkül bármikor jogosult a Szoftver vagy a Szoftver által hivatkozott elemek módosítására, de nem kötelezhetõ a Szoftver támogatására vagy frissítésére.  Ellenkezõ értelmû rendelkezés hiányában az Intel sem kifejezett, sem beleértett jogokat nem biztosít az Intel szabadalmaira, szerzõi jogaira, védjegyeire vagy más szellemi tulajdonára vonatkozóan. Ön csak akkor ruházhatja át a Szoftvert, ha a kedvezményezett maradéktalanul beleegyezik jelen feltételek teljesítésébe, és ha Ön a Szoftver egyetlen példányát sem õrzi meg.
+
+KORLÁTOZOTT SZAVATOSSÁG AZ ADATHORDOZÓRA. Amennyiben az Intel a Szoftvert fizikai adathordozón bocsátja rendelkezésre, akkor szavatolja, hogy az adathordozó a leszállítást követõ kilencven (90) napon át mentes lesz az anyaghibáktól és egyéb fizikai jellegû hibáktól. Ha ilyen hibát észlel, juttassa vissza az adathordozót az Intelhez. Az Intel belátása szerint kicseréli az adathordozót, vagy más módon bocsájtja rendelkezésre a Szoftvert.
+
+AZ EGYÉB SZAVATOSSÁGOK KIZÁRÁSA. A FENT EMLÍTETT ESETEKET KIVÉVE AZ INTEL A SZOFTVERT "ADOTT ÁLLAPOTÁBAN" BOCSÁJTJA RENDELKEZÉSRE, MINDENFAJTA KIFEJEZETT VAGY BELEÉRTETT SZAVATOSSÁG NÉLKÜL, BELEÉRTVE TÖBBEK KÖZÖTT AZ ELADHATÓSÁGRA, A JOGSÉRTÉSMENTESSÉGRE, ILLETVE AZ ADOTT CÉLRA VALÓ ALKALMASSÁGRA VONATKOZÓ SZAVATOSSÁGOT IS.  Az Intel nem nyújt szavatosságot és nem vállal felelõsséget a Szoftverben található semmilyen információ, szöveg, ábra, hivatkozás és egyéb elem helyessége vagy teljessége tekintetében.
+
+FELELÕSSÉGKORLÁTOZÁS. AZ INTEL ÉS SZÁLLÍTÓI SEMMINEMÛ FELELÕSSÉGET NEM VÁLLALNAK AZ OLYAN KÁROKÉRT (IDEÉRTVE TÖBBEK KÖZÖTT AZ ELMARADT HASZONBÓL, AZ ÜZLETI TEVÉKENYSÉG FENNAKADÁSÁBÓL VAGY AZ ADATVESZTÉSBÕL EREDÕ KÁROKAT), AMELYEK A SZOFTVER HASZNÁLATÁBÓL VAGY HASZNÁLATÁNAK AKADÁLYOZTATÁSÁBÓL SZÁRMAZNAK, MÉG AKKOR SEM, HA AZ EFFÉLE KÁROK LEHETÕSÉGÉRÕL AZ INTELT TÁJÉKOZTATTÁK. MIVEL EGYES ORSZÁGOK TÖRVÉNYKEZÉSE NEM ENGEDI MEG A BELEÉRTETT SZAVATOSSÁGOK, ILLETVE A KÖVETKEZMÉNYES VAGY ESETI KÁROKÉRT VALÓ FELELÕSSÉG KIZÁRÁSÁT VAGY KORLÁTOZÁSÁT, EZÉRT LEHET, HOGY A FENTI KORLÁTOZÁSOK ÖNRE NEM ÉRVÉNYESEK. ÖNT AZ EGYES ORSZÁGOK TÖRVÉNYKEZÉSÉTÕL FÜGGÕEN EGYÉB JOGOK IS MEGILLETHETIK.
+
+A SZERZÕDÉS MEGSZÜNTETÉSE. Az Intel bármikor felmondhatja jelen Szerzõdést, ha Ön a benne foglaltakat megszegi. A Szerzõdés megszûntekor Ön köteles a Szoftvert megsemmisíteni, vagy annak összes példányát az Intelhez visszajuttatni.
+ 
+IRÁNYADÓ JOG. A jelen Szerzõdésbõl eredõ vitás kérdések tekintetében Kalifornia állam törvényei az irányadók, kivéve azoknak a jogütközésre és az áruforgalmi szerzõdésekrõl szóló ENSZ-egyezményre vonatkozó elveit. Ön a Szoftvert a hatályos exporttörvényeket és -elõírásokat megszegõ módon nem exportálhatja. Az Intelt semmilyen más megállapodás nem kötelezi, csak az írásba foglalt és az Intel hivatalos képviselõje által aláírt megállapodások.
+
+AZ EGYESÜLT ÁLLAMOK KORMÁNYÁNAK KORLÁTOZOTT JOGAI. A Szoftver "KORLÁTOZOTT JOGI FELTÉTELEK" hatálya alá esik. Az Egyesült Államok kormánya általi használatra, másolásra és közlésre a FAR52.227-14 és az azt követõ DFAR252.227-7013, illetve az ezeket felváltó rendelkezések érvényesek. A Szoftvernek az USA kormánya általi használata az Intel vonatkozó szellemi tulajdonjogainak elismerését jelenti. E vonatkozásban a Vállalkozó vagy Gyártó az Intel Corporation, 2200 Mission College Blvd., Santa Clara, CA 95052 (USA). 
+
+A SZERZÕDÉS NYELVE ÉS NEM ANGOL NYELVÛ VÁLTOZATAI Amennyiben a jelen szerzõdés angol nyelvû változatát más nyelvû változat is kíséri, a nem angol nyelvû változat csak a könnyebb megértést szolgálja, és az angol nyelvû változat a mérvadó.
+
+
+
+INTEL SOFTWARE LICENSE AGREEMENT (OEM / IHV / ISV Distribution & Single User)
+
+IMPORTANT - READ BEFORE COPYING, INSTALLING OR USING. 
+Do not use or load this software and any associated materials (collectively, the "Software") until you have carefully read the following terms and conditions. By loading or using the Software, you agree to the terms of this Agreement. If you do not wish to so agree, do not install or use the Software.
+
+Please Also Note:
+* If you are an Original Equipment Manufacturer (OEM), Independent Hardware Vendor (IHV), or Independent Software Vendor (ISV), this complete LICENSE AGREEMENT applies;
+* If you are an End-User, then only Exhibit A, the INTEL SOFTWARE LICENSE AGREEMENT, applies.
+
+For OEMs, IHVs, and ISVs:
+
+LICENSE. This Software is licensed for use only in conjunction with Intel component products.  Use of the Software in conjunction with non-Intel component products is not licensed hereunder. Subject to the terms of this Agreement, Intel grants to you a nonexclusive, nontransferable, worldwide, fully paid-up license under Intel's copyrights to:
+	a) use, modify and copy Software internally for your own development and maintenance purposes; and
+	b) modify, copy and distribute Software, including derivative works of the Software, to your end-users, but only under a license agreement with terms at least as restrictive as those contained in Intel's Final, Single User License Agreement, attached as Exhibit A; and
+	c) modify, copy and distribute the end-user documentation which may accompany the Software, but only in association with the Software.
+
+If you are not the final manufacturer or vendor of a computer system or software program incorporating the Software, then you may transfer a copy of the Software, including derivative works of the Software (and related end-user documentation) to your recipient for use in accordance with the terms of this Agreement, provided such recipient agrees to be fully bound by the terms hereof.  You shall not otherwise assign, sublicense, lease, or in any other way transfer or disclose Software to any third party. You shall not reverse- compile, disassemble or otherwise reverse-engineer the Software.
+
+Except as expressly stated in this Agreement, no license or right is granted to you directly or by implication, inducement, estoppel or otherwise.  Intel shall have the right to inspect or have an independent auditor inspect your relevant records to verify your compliance with the terms and conditions of this Agreement.
+
+CONFIDENTIALITY. If you wish to have a third party consultant or subcontractor ("Contractor") perform work on your behalf which involves access to or use of Software, you shall obtain a written confidentiality agreement from the Contractor which contains terms and obligations with respect to access to or use of Software no less restrictive than those set forth in this Agreement and excluding any distribution rights, and use for any other purpose.
+Otherwise, you shall not disclose the terms or existence of this Agreement or use Intel's name in any publications, advertisements, or other announcements without Intel's prior written consent.  You do not have any rights to use any Intel trademarks or logos.
+
+OWNERSHIP OF SOFTWARE AND COPYRIGHTS. Title to all copies of the Software remains with Intel or its suppliers. The Software is copyrighted and protected by the laws of the United States and other countries, and international treaty provisions. You may not remove any copyright notices from the Software. Intel may make changes to the Software, or to items referenced therein, at any time and without notice, but is not obligated to support or update the Software. Except as otherwise expressly provided, Intel grants no express or implied right under Intel patents, copyrights, trademarks, or other intellectual property rights. You may transfer the Software only if the recipient agrees to be fully bound by these terms and if you retain no copies of the Software.
+
+LIMITED MEDIA WARRANTY. If the Software has been delivered by Intel on physical media, Intel warrants the media to be free from material physical defects for a period of ninety (90) days after delivery by Intel. If such a defect is found, return the media to Intel for replacement or alternate delivery of the Software as Intel may select.
+
+EXCLUSION OF OTHER WARRANTIES. EXCEPT AS PROVIDED ABOVE, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND, INCLUDING WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE.  Intel does not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within the Software.
+
+LIMITATION OF LIABILITY. IN NO EVENT SHALL INTEL OR ITS SUPPLIERS BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, LOST PROFITS, BUSINESS INTERRUPTION OR LOST INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF INTEL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS PROHIBIT EXCLUSION OR LIMITATION OF LIABILITY FOR IMPLIED WARRANTIES OR CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU. YOU MAY ALSO HAVE OTHER LEGAL RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION. 
+
+TERMINATION OF THIS AGREEMENT. Intel may terminate this Agreement at any time if you violate its terms. Upon termination, you will immediately destroy the Software or return all copies of the Software to Intel.
+ 
+APPLICABLE LAWS. Claims arising under this Agreement shall be governed by the laws of California, excluding its principles of conflict of laws and the United Nations Convention on Contracts for the Sale of Goods. You may not export the Software in violation of applicable export laws and regulations. Intel is not obligated under any other agreements unless they are in writing and signed by an authorized representative of Intel.
+
+GOVERNMENT RESTRICTED RIGHTS. The Software is provided with "RESTRICTED RIGHTS." Use, duplication, or disclosure by the Government is subject to restrictions as set forth in FAR52.227-14 and DFAR252.227-7013 et seq. or their successors. Use of the Software by the Government constitutes acknowledgment of Intel's proprietary rights therein. Contractor or Manufacturer is Intel Corporation, 2200 Mission College Blvd., Santa Clara, CA 95052.
+
+
+EXHIBIT "A" 
+INTEL SOFTWARE LICENSE AGREEMENT (Final, Single User)
+
+IMPORTANT - READ BEFORE COPYING, INSTALLING OR USING. 
+Do not use or load this software and any associated materials (collectively, the "Software") until you have carefully read the following terms and conditions. By loading or using the Software, you agree to the terms of this Agreement. If you do not wish to so agree, do not install or use the Software.
+
+LICENSE. You may copy the Software onto a single computer for your personal, noncommercial use, and you may make one back-up copy of the Software, subject to these conditions: 
+1. This Software is licensed for use only in conjunction with Intel component products.  Use of the Software in conjunction with non-Intel component products is not licensed hereunder. 
+2. You may not copy, modify, rent, sell, distribute or transfer any part of the Software except as provided in this Agreement, and you agree to prevent unauthorized copying of the Software.
+3. You may not reverse engineer, decompile, or disassemble the Software. 
+4. You may not sublicense or permit simultaneous use of the Software by more than one user.
+5. The Software may contain the software or other property of third party suppliers, some of which may be identified in, and licensed in accordance with, any enclosed "license.txt" file or other text or file. 
+
+OWNERSHIP OF SOFTWARE AND COPYRIGHTS. Title to all copies of the Software remains with Intel or its suppliers. The Software is copyrighted and protected by the laws of the United States and other countries, and international treaty provisions. You may not remove any copyright notices from the Software. Intel may make changes to the Software, or to items referenced therein, at any time without notice, but is not obligated to support or update the Software. Except as otherwise expressly provided, Intel grants no express or implied right under Intel patents, copyrights, trademarks, or other intellectual property rights. You may transfer the Software only if the recipient agrees to be fully bound by these terms and if you retain no copies of the Software.
+
+LIMITED MEDIA WARRANTY. If the Software has been delivered by Intel on physical media, Intel warrants the media to be free from material physical defects for a period of ninety (90) days after delivery by Intel. If such a defect is found, return the media to Intel for replacement or alternate delivery of the Software as Intel may select.
+
+EXCLUSION OF OTHER WARRANTIES EXCEPT AS PROVIDED ABOVE, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND INCLUDING WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE.  Intel does not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within the Software.
+
+LIMITATION OF LIABILITY.  IN NO EVENT SHALL INTEL OR ITS SUPPLIERS BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, LOST PROFITS, BUSINESS INTERRUPTION, OR LOST INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF INTEL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS PROHIBIT EXCLUSION OR LIMITATION OF LIABILITY FOR IMPLIED WARRANTIES OR CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU. YOU MAY ALSO HAVE OTHER LEGAL RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION. 
+
+TERMINATION OF THIS AGREEMENT. Intel may terminate this Agreement at any time if you violate its terms. Upon termination, you will immediately destroy the Software or return all copies of the Software to Intel.
+ 
+APPLICABLE LAWS. Claims arising under this Agreement shall be governed by the laws of California, excluding its principles of conflict of laws and the United Nations Convention on Contracts for the Sale of Goods. You may not export the Software in violation of applicable export laws and regulations. Intel is not obligated under any other agreements unless they are in writing and signed by an authorized representative of Intel.
+
+GOVERNMENT RESTRICTED RIGHTS. The Software is provided with "RESTRICTED RIGHTS." Use, duplication, or disclosure by the Government is subject to restrictions as set forth in FAR52.227-14 and DFAR252.227-7013 et seq. or their successors. Use of the Software by the Government constitutes acknowledgment of Intel's proprietary rights therein. Contractor or Manufacturer is Intel Corporation, 2200 Mission College Blvd., Santa Clara, CA 95052.
+ 
+SLAOEMISV1/RBK/01-21-00
+
+
+

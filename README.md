@@ -35,5 +35,4 @@ Since the inf file of this driver has been modified it will break WHQL complianc
 
 This was tested on a Dynabook-Toshiba Satellite M105-S3041 laptop running Windows 2000 Service Pack 4 (with hfslip and Extended Kernel 3.0 patches) using a Samsung C27F396FH monitor. Its maximum resolution can be set to 1920x1080p 60hz using VGA/analog output with the following settings:
 
-![custom_mode_01](https://user-images.githubusercontent.com/45127566/227465838-e016ff5e-d96c-46fc-8e8b-1050d7696022.png)
-
+<p align="center"><img width="497" height="560" src="https://user-images.githubusercontent.com/45127566/227465838-e016ff5e-d96c-46fc-8e8b-1050d7696022.png"></p>

@@ -6,7 +6,7 @@ You must be on Windows 2000 or Windows XP in order to install this driver.
 
 ### Install Instructions
 
-1. Clone or download the repo, unzip and click Setup.exe
+1. Clone or [download](https://github.com/RoozerXC/Express14344/archive/refs/heads/main.zip) the repo, unzip and click Setup.exe
 2. Follow the instructions from the setup program
 3. Restart. The driver should be installed and working by then
 
